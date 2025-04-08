@@ -13,7 +13,7 @@
 
 ### 2. Step By Step Guide -: 
 
-### 1. Open [Google Cloud Console](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://console.cloud.google.com/&ved=2ahUKEwjf_oPc7seMAxWBp1YBHcPdI80QFnoECD8QAQ&usg=AOvVaw1GxwHR1WZnDu0xsR-djCrv) And Go To "API and services" Section, And Click On "Enable APIs and services".
+### 1. Open [Google Cloud Console](https://console.cloud.google.com) And Go To "API and services" Section, And Click On "Enable APIs and services".
 
 ### 2. Create New Project Give A Name To Your Project And Click "Create".
 
@@ -75,8 +75,7 @@ apt update && apt upgrade
 git clone https://github.com/KingOfState/TokenPickle
 ```
 
-### 5. make sure Credentials.json file present in your storage folder not in Sd card. if not then just move credentials.json file into the sdcard. Not in any folder.
-
+### 5. make sure Credentials.json file present in your storage not in any folder. if not then just move credentials.json file into the storage. Not in any folder.
 ### 6. you have to give storage permission to termux. for that use this command.
 
 ```
