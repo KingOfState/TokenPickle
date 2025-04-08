@@ -1,3 +1,6 @@
+<details>
+    <summary><b>How To Make token.pickle</b></summary>
+  
 # How To Generate Token Pickle With Android Easily After Google Auth2.0 New policy update. Without any kind of error.
 
 ### 1. Install Termux [F-Droid](https://f-droid.org/en/packages/com.termux/)
