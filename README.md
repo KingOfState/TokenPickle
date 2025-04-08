@@ -1,6 +1,11 @@
 <h1 align="center">Jason</h1>
 
-# To Make Token Pickle 1st You Need "credentials.json" File If You Alredy Make The File Then You Start With Step 2. But If You Don't Know How To Make "credentials.json" Go To Step 1. And Follow The Instructions To Make "credentials.json" After This You Go To Step 2. Open Termux And Get Your "token.pickle"...
+# To Make Token Pickle 1st You Need "credentials.json" File.
+# If You Alredy Make The File Then You Start With Step 2.
+# But If You Don't Know How To Make "credentials.json" Go To Step 1.
+# Follow The Given Instructions In Step 1. To Make "credentials.json"
+# After That You Go To Step 2.
+# Open Termux And Get Your "token.pickle"...
 
 <details>
     <summary><b>Step 1. How To Make credentials.json</b></summary>
