@@ -1,5 +1,7 @@
+# To Make Token Pickle 1st You Need credentials.json File If You Alredy Make The File Then You Start With Step 2. But If You Don't Know How To Make credentials.json Go To Step 1. And Follow The Instructions To Make credentials.json After This You Go To Step 2. Open Termux And Get Your token.pickle...
+
 <details>
-    <summary><b>How To Make credentials.json</b></summary>
+    <summary><b>Step 1. How To Make credentials.json</b></summary>
     
 # How To Make credentials.json For Generating Token.pickle (Required*)
 
@@ -46,7 +48,7 @@
 ------
 
 <details>
-    <summary><b>How To Get token.pickle</b></summary>
+    <summary><b>Step 2. How To Get token.pickle</b></summary>
   
 # How To Generate Token Pickle With Android Easily After Google Auth2.0 New policy update. Without any kind of error.
 
