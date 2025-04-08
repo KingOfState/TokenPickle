@@ -37,7 +37,7 @@
 
 ### 12. In "API Library" Section Click On "Google Drive API" And Enable It. (You Can Also Search For Google Drive).
 
-### 13. After Enabling Drive API Go To "OAuth Consent Screen" (In API and services Section) Go To "Data Access" Click "Add or remove scopes" Select "1,2,3" Only (Ex - 1. auth/userinfo.email 2. auth/userinfo.profile 3. openid) The Click "Update" Then Click "Save".
+### 13. After Enabling Drive API Go To "OAuth Consent Screen" (In API and services Section) Go To "Data Access" Click "Add or remove scopes" Select "1,2,3" Only (Ex - 1.auth/userinfo.email 2.auth/userinfo.profile 3.openid) Then Click "Update" Then Click "Save".
 
 ### 14. After (Task 13.) Click On "Audience" Then Click "Pulish App" And "Confirm". (Now, You May Close Your Browser, Online Work Complete)
 
